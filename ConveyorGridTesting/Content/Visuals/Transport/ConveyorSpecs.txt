@@ -1,0 +1,7 @@
+Grid size: 50x50px
+Conveyor width: 30
+
+Arrow width: 16px
+Arrow height: 9px
+
+Arrow distance from edge: 8px = 0.25*(Grid - 2*Ah)
